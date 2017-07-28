@@ -1,0 +1,12 @@
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+li{
+  display: inline-block;
+}
+.todossss{
+  margin-left: 0px;
+  padding-left: 0px;
+}
